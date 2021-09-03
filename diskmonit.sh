@@ -1,5 +1,5 @@
 #!/bin/sh
-#SENDGRID_API_KEY="SG.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+SENDGRID_API_KEY="SG.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 EMAIL_TO="youremail@email.com"
 EMAIL_CC="youremail@email.com"
 EMAIL_BCC="youremail@email.com"
